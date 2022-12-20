@@ -6,7 +6,6 @@ I´m Roba, Fontend Developer & Blockchain Enthusiast
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)  
  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
