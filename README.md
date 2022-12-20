@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm **Roba Nath Basnet**, a passionate developer, Learner and Developer & Blockchain Enthusiast!
+hi, i'm **Roba Nath Basnet**, a passionate Learner, Developer & Blockchain Enthusiast!
 
   <img align="right" alt="GIF" src="https://github.com/robanb/robanb/blob/master/code.gif?raw=true" width="500" height="320" />
 
