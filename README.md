@@ -2,17 +2,14 @@
 
 <a href="https://twitter.com/roba_nath">
   <img align="left" alt="Roba Nath Basnet | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/roba-nath-basnet-306951206/">
 
   <img align="left" alt="Roba's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 <br />
 
 hi, i'm **Roba Nath Basnet**, a passionate Learner, Developer & Blockchain Enthusiast!
-
-  <img align="right" alt="GIF" src="https://github.com/robanb/robanb/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **languages and tools:**
 
