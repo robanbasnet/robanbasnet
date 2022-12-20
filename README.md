@@ -1,18 +1,14 @@
 ### hey there
+I'm **Roba Nath Basnet**, a passionate Learner, Developer & Blockchain Enthusiast!
 
 <a href="https://twitter.com/roba_nath">
   <img align="left" alt="Roba Nath Basnet | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-
 <a href="https://www.linkedin.com/in/roba-nath-basnet-306951206/">
-
-  <img align="left" alt="Roba's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="Roba's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
 <br />
 
-hi, i'm **Roba Nath Basnet**, a passionate Learner, Developer & Blockchain Enthusiast!
-
 **languages and tools:**
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
