@@ -19,6 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robanb&" alt="robanb" /></p>
 
-#![Snake animation](https://github.com/{{robanb}}/{{robanb}}/blob/output/github-contribution-grid-snake.svg)
-
 <p><a href="https://www.buymeacoffee.com/robanb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="robanb" /></a></p><br><br>
