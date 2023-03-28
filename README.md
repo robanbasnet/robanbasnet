@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain Development**
 
-- 📫 How to reach me **robanathbasnet@gmail.com**
+- 📫 Reach me @ **robanathbasnet@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
